@@ -6,6 +6,6 @@ const multiply = 31 * 2
 const random = Math.random() + 1
 //const random = Math.floor(Math.random() * 10) + 1
 
-//const mod = 25 % 7
+const mod = 25 % 7
 
 //const max = Math.max(1, 2, 5, 10, 20)
