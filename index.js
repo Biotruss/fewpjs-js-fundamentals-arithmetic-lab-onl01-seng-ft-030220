@@ -8,4 +8,4 @@ const random = Math.random() + 1
 
 const mod = 25 % 7
 
-//const max = Math.max(1, 2, 5, 10, 20)
+//const max = Math.max(1, 4, 8, 16, 20)
